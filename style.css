@@ -1,0 +1,31 @@
+body {
+	text-align: center;
+	background: linear-gradient(to right, white, orange);
+}
+
+h1 {
+	font-family: Arial;
+	font-size: 3em;
+	letter-spacing: 0.5em;
+	color: rgba(0,0,0,0.7);
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-family: Arial;
+	font-size: 2em;
+	letter-spacing: 0.2em;
+	color: rgba(0,0,0,0.7);
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h3 {
+	font-family: Arial;
+	font-size: 1em;
+	letter-spacing: 0.1em;
+	color: rgba(0,0,0,0.7);
+	text-align: center;
+	text-transform: lowercase;
+}
